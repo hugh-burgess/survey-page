@@ -182,7 +182,7 @@
         </label>
 
         <label>
-          <input name="user-recommend" value="no" type="radio" class="input-radio" checked>No</input>
+          <input name="user-recommend" value="no" type="radio" class="input-radio">No</input>
         </label>
         <hr>
 
